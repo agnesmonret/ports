@@ -1,6 +1,6 @@
 {
 	"intro": {
-		"start": "const Andrew = ( name, passion ) =>",
+		"start": "const AGN = ( name, passion ) =>",
 		"end": "Hello, my name is",
 		"speed": 60,
 		"deletionSpeed": 80,
@@ -11,7 +11,7 @@
 	},
 
 	"header": {
-		"name": "Andrew Nelson.",
+		"name": "AGN",
 		"usp": "I design and build meaningful experiences."
 	},
 
@@ -24,8 +24,8 @@
 			"leaveSite": false
 		},
 		"secondary": {
-			"title": "LinkedIn",
-			"url": "",
+			"title": "Discord",
+			"url": "https://discord.gg/metaversu",
 			"leaveSite": "true"
 		}
 	}
